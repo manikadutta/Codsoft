@@ -115,7 +115,7 @@
   body{
     width: 100%;
     height: 100vh;
-    background: url('new\ pic.jpg')no-repeat;
+    background: url('new\ pic.jpeg')no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center;
